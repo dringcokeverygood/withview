@@ -17,10 +17,10 @@
 ## 2. 서비스 구조도
 
 ### 서비스 아키텍처
-![위드뷰 서비스 아키텍처.png](./imgs/위드뷰 시스템 아키텍처.png)
+![위드뷰 서비스 아키텍처.png](./imgs/withview-architecture.png)
 
 ### ERD
-![위드뷰 erd.png](./imgs/d60812786e97ec5588818a279b53615a-0.jpg)
+![위드뷰 erd.png](./imgs/withview-erd.png)
 
 
 ## 3. 주요 기술
